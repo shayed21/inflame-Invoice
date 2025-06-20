@@ -57,7 +57,7 @@ This project is built with .
 
 All GPT Engineer projects can be deployed directly via the GPT Engineer app.
 
-Simply visit your project at [GPT Engineer](https://inflame-invoice.vercel.app/) and click on Share -> Publish.
+Simply visit your project at [Inflame Invoice](https://inflame-invoice.vercel.app/) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
